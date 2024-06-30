@@ -6,6 +6,8 @@ TYPES OF CLUSTERING IMPLEMENTED -
   3. HEIRARCHIAL CLUSTERING
   4. DBSCAN CLUSTERING
 ALSO IMPLEMENTED VARIOUS MOONS METHOD OF REPRESENTATION
+
+
 USE CASES - 1. Marketing: Segmenting customers to develop marketing strategies
 2. Biology: Classifying plant and animal species
 3. City planning: Analyzing house values based on location
